@@ -112,16 +112,4 @@ Flutter & Full Stack Developer
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
-
----
-
-If you want, I can also:
-
-* Customize this README for **Firebase + Flutter**
-* Make it **shorter** or **more professional**
-* Add **badges**, **screenshots section**, or **GitHub stats**
-
-Just tell me 👍
