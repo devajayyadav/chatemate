@@ -3,7 +3,7 @@
 
 # 💬 Flutter Chat App
 
-A modern **real-time chatting application** built using **Flutter**, designed with a clean UI and smooth user experience.
+A modern real-time chatting application built using **Flutter**, designed with a clean UI and smooth user experience.
 This app allows users to communicate instantly with secure authentication and fast message delivery.
 
 ---
